@@ -10,10 +10,11 @@ Welcome to my profile!
 
 <img src="static/tag.gif" width="14" /> I'm a BASH enthusiast
 
-I'm currently working on Device Intelligence and Fraud Prevention on Web and Native Mobile platforms.
+I'm currently working on Device Intelligence and Fraud Prevention solutions on Web and Native Mobile.
 
 ```
-Do or do not. There is no try.
+"It seems that perfection is attained, not when there is nothing more to add,
+but when there is nothing more to take away." — Antoine de Saint-Exupéry
 ```
 
 <img src="static/coding2.gif" width="50%" />
