@@ -2,11 +2,7 @@
 
 Welcome to my profile!
 
-<img src="static/fire.gif" width="30%" />
-
-```
- Do or do not. There is no try.
-```
+<img src="static/fire.gif" width="20%" />
 
 <img src="static/tag.gif" width="14" /> I've been coding in TS and Python primarily for over 4 years
 
@@ -15,6 +11,10 @@ Welcome to my profile!
 <img src="static/tag.gif" width="14" /> I'm a BASH enthusiast
 
 I'm currently mainly working on unique device identification on Web and Native Mobile platforms.
+
+```
+Do or do not. There is no try.
+```
 
 <img src="static/coding2.gif" width="50%" />
 
