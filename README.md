@@ -10,7 +10,7 @@ Welcome to my profile!
 
 <img src="static/tag.gif" width="14" /> I'm a BASH enthusiast
 
-I'm currently mainly working on unique device identification on Web and Native Mobile platforms.
+I'm currently working on Device Intelligence and Fraud Prevention on Web and Native Mobile platforms.
 
 ```
 Do or do not. There is no try.
